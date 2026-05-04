@@ -11,6 +11,6 @@
 
 
 
- For additional infomation, you may refer to the group's IEEE published conference paper: 10.1109/ICISS67859.2026.11453982.
+ For additional infomation, you may refer to the group's IEEE published conference paper: [10.1109/ICISS67859.2026.11453982.](https://doi.org/10.1109/ICISS67859.2026.11453982)
 
  
