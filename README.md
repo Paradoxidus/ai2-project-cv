@@ -2,11 +2,12 @@
 
  📌 This is a deep learning project consisting of three members whose primary focus is to detect benign brain tumors using a multi-classification computer vision (CV) approach. The scope focuses on three classes: meningioma, glioma, and pituitary tumors from the Kaggle dataset: https://www.kaggle.com/datasets/indk214/brain-tumor-dataset-segmentation-and-classification/data. Fist, the goal of this project is to contribute artificial intelligence tasks in medical fields such as tumor detection. Second, it is also to benchmark newer models such as the YOLOv12, a powerful computer vision model that uses attention-based modules such as FlashAttention and area attention against complex visual environments. 
 
-| Contributors | Name                          | GitHub Username |
-|--------------|-------------------------------|-----------------|
-| Member #1    | Aaron Gabriel L. Novesteras   | @Paradoxidus |
-| Member #2    | Gabriel Christian D. Tan      | n/a      |
-| Member #3    | Thomas Kaden K. Zerda         | n/a     |
+| Contributors | Name                          | GitHub Username | Role/Responsibility       | LinkedIn |
+|--------------|-------------------------------|-----------------|---------------------------|----------|
+| Member #1    | Aaron Gabriel L. Novesteras   | [Paradoxidus](www.linkedin.com/in/aaron-gabriel-novesteras-077a352a9) | Model Training & Integration | [LinkedIn](https://www.linkedin.com/in/aaron-gabriel-novesteras-077a352a9) |
+| Member #2    | Gabriel Christian D. Tan      | n/a | Dataset Preprocessing        | - |
+| Member #3    | Thomas Kaden K. Zerda         | n/a| Evaluation & Benchmarking    | - |
+
 
 
 
