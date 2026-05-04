@@ -29,6 +29,14 @@ This project requires the following libraries and tools to run YOLOv12 for brain
   - numpy==1.26.4  
   - ps
 
+## 📊 Results and Summary
+
+| Tumor Class | AP @ IoU=0.5 | AP @ IoU=0.5–0.95 | Precision | Recall | F1 (Peak) |
+|-------------|--------------|-------------------|-----------|--------|-----------|
+| Glioma      | 0.754        | ~0.45             | ~0.71     | ~0.70  | 0.71 @ 0.30–0.35 |
+| Meningioma  | 0.982        | ~0.55             | >0.95     | >0.90  | >0.90 (stable across 0.05–0.70) |
+| Pituitary   | 0.802        | ~0.50             | ~0.80     | ~0.80  | 0.72 @ 0.30–0.35 |
+| **Overall** | 0.846        | ~0.54             | >0.80     | ~0.75  | 0.80 @ 0.304 |
 
 
 
