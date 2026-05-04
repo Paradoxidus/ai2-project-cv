@@ -42,4 +42,6 @@ This project requires the following libraries and tools to run YOLOv12 for brain
 
  For additional infomation, you may refer to the group's IEEE published conference paper: [10.1109/ICISS67859.2026.11453982.](https://doi.org/10.1109/ICISS67859.2026.11453982)
 
+ Core architecture/template of YOLOv12 for transfer learning belongs to [Dr. Lysa V. Comia.]([[10.1109/ICISS67859.2026.11453982.](https://doi.org/10.1109/ICISS67859.2026.11453982)](https://ieeexplore.ieee.org/author/237244627179273))
+
  
