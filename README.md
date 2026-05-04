@@ -8,8 +8,26 @@
 | Member #2    | Gabriel Christian D. Tan      | -             | Documentation (Colab notebooks, paper, supporting materials)                        | - |
 | Member #3    | Thomas Kaden K. Zerda         | -             | Training, paper writing, deployment                                                 | - |
 
+## 📦 Dependencies
 
+This project requires the following libraries and tools to run YOLOv12 for brain tumor detection:
 
+- **Core Frameworks**
+  - torch==2.2.2  
+  - torchvision==0.17.2  
+  - ultralytics==8.3.176  
+
+- **Computer Vision & Augmentation**
+  - timm==1.0.14  
+  - albumentations==2.0.4  
+  - opencv-python==4.9.0.80  
+  - pycocotools==2.0.7  
+
+- **Utilities**
+  - PyYAML==6.0.1  
+  - scipy==1.13.0  
+  - numpy==1.26.4  
+  - ps
 
 
 
