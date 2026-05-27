@@ -5,7 +5,7 @@
 
  ## 👥 Contributors
 
-| Name                          | GitHub Username | Role/Responsibility                                                                 | LinkedIn |
+| Contributors                          | GitHub Username | Role/Responsibility                                                                 | LinkedIn |
 |-------------------------------|-----------------|-------------------------------------------------------------------------------------|----------|
 | Aaron Gabriel L. Novesteras   | [@Paradoxidus](https://github.com/Paradoxidus) | Paper writing, training & validation, testing, results analysis                     | [LinkedIn](https://www.linkedin.com/in/aaron-gabriel-novesteras-077a352a9) |
 |  Gabriel Christian D. Tan      | -             | Documentation (Colab notebooks, paper, supporting materials)                        | - |
