@@ -5,11 +5,11 @@
 
  ## 👥 Contributors
 
-| Contributors | Name                          | GitHub Username | Role/Responsibility                                                                 | LinkedIn |
+| Name                          | GitHub Username | Role/Responsibility                                                                 | LinkedIn |
 |--------------|-------------------------------|-----------------|-------------------------------------------------------------------------------------|----------|
-| Member #1    | Aaron Gabriel L. Novesteras   | [@Paradoxidus](https://github.com/Paradoxidus) | Paper writing, training & validation, testing, results analysis                     | [LinkedIn](https://www.linkedin.com/in/aaron-gabriel-novesteras-077a352a9) |
-| Member #2    | Gabriel Christian D. Tan      | -             | Documentation (Colab notebooks, paper, supporting materials)                        | - |
-| Member #3    | Thomas Kaden K. Zerda         | -             | Training, paper writing, deployment                                                 | - |
+| Aaron Gabriel L. Novesteras   | [@Paradoxidus](https://github.com/Paradoxidus) | Paper writing, training & validation, testing, results analysis                     | [LinkedIn](https://www.linkedin.com/in/aaron-gabriel-novesteras-077a352a9) |
+|  Gabriel Christian D. Tan      | -             | Documentation (Colab notebooks, paper, supporting materials)                        | - |
+|  Thomas Kaden K. Zerda         | -             | Training, paper writing, deployment                                                 | - |
 
 ## 📦 Dependencies
 
